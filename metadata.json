@@ -1,0 +1,7 @@
+{
+  "name": "India Impact AI: Global News Monitor",
+  "description": "Android AI news intelligence monitoring global events across X, YouTube, Google & social media, ranking them by impact on India with past-action causal analysis and daily push briefings.",
+  "requestFramePermissions": ["notifications"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
